@@ -1,0 +1,11 @@
+c:\users\micha\source\repos\MessageCentre\MessageCentre\bin\Debug\netcoreapp2.0\MessageCentre.deps.json
+c:\users\micha\source\repos\MessageCentre\MessageCentre\bin\Debug\netcoreapp2.0\MessageCentre.runtimeconfig.json
+c:\users\micha\source\repos\MessageCentre\MessageCentre\bin\Debug\netcoreapp2.0\MessageCentre.runtimeconfig.dev.json
+c:\users\micha\source\repos\MessageCentre\MessageCentre\bin\Debug\netcoreapp2.0\MessageCentre.dll
+c:\users\micha\source\repos\MessageCentre\MessageCentre\bin\Debug\netcoreapp2.0\MessageCentre.pdb
+c:\users\micha\source\repos\MessageCentre\MessageCentre\obj\Debug\netcoreapp2.0\MessageCentre.csprojAssemblyReference.cache
+c:\users\micha\source\repos\MessageCentre\MessageCentre\obj\Debug\netcoreapp2.0\MessageCentre.csproj.CoreCompileInputs.cache
+c:\users\micha\source\repos\MessageCentre\MessageCentre\obj\Debug\netcoreapp2.0\MessageCentre.AssemblyInfoInputs.cache
+c:\users\micha\source\repos\MessageCentre\MessageCentre\obj\Debug\netcoreapp2.0\MessageCentre.AssemblyInfo.cs
+c:\users\micha\source\repos\MessageCentre\MessageCentre\obj\Debug\netcoreapp2.0\MessageCentre.dll
+c:\users\micha\source\repos\MessageCentre\MessageCentre\obj\Debug\netcoreapp2.0\MessageCentre.pdb
